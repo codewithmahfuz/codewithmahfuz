@@ -1,9 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:1a1a2e,100:16213e&height=220&section=header&text=Mahfuzur%20Rahman%20Chowdhury&fontSize=42&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=&descAlignY=58&descSize=15&animation=fadeIn"/>
+<div align="center">
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=3000&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=120&lines=Mahfuzur+Rahman+Chowdhury"/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=99999&color=8b949e&center=true&vCenter=true&width=800&height=40&lines=Self-Taught+Developer+%7C+Always+Learning%2C+Always+Building"/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=58A6FF&center=true&vCenter=true&width=620&lines=Self-Taught+Developer+%7C+Building+Real+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
-![Profile Views](https://komarev.com/ghpvc/?username=codewithmahfuz&color=58A6FF&style=flat-square&label=Profile+Views)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=80&section=header&reversal=true"/>
+
 
 </div>
 
