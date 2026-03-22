@@ -27,16 +27,7 @@ Fun Fact: I automate everything I do more than twice 😄
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-### Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
+  
 ### Exploring
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=flat-square&logo=hackthebox&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
@@ -44,21 +35,6 @@ Fun Fact: I automate everything I do more than twice 😄
 ![DSA](https://img.shields.io/badge/DSA-6A0DAD?style=flat-square&logo=leetcode&logoColor=white)
 
 </div>
-
----
-
-## 📊 Skill Progress
-
-```
-Python          ████████████████████░░░  85%
-Bash Scripting  ████████████████░░░░░░░  70%
-Web Scraping    ███████████████░░░░░░░░  65%
-SQL / Database  █████████████░░░░░░░░░░  55%
-Linux / CLI     ████████████████░░░░░░░  70%
-Cybersecurity   ████████░░░░░░░░░░░░░░░  35%  ← learning
-AI / ML         ██████░░░░░░░░░░░░░░░░░  25%  ← exploring
-DSA             ███████░░░░░░░░░░░░░░░░  30%  ← in progress
-```
 
 ---
 
