@@ -100,17 +100,6 @@ DSA             ███████░░░░░░░░░░░░░░�
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=codewithmahfuz&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📉 Contribution Graph
 
@@ -131,68 +120,7 @@ DSA             ███████░░░░░░░░░░░░░░�
 </div>
 
 <details>
-<summary>⚙️ Snake setup করতে ক্লিক করো</summary>
-
-**ধাপ ১:** `codewithmahfuz` repo তে যাও → `.github/workflows/` ফোল্ডার বানাও
-
-**ধাপ ২:** `snake.yml` নামে ফাইল বানাও এবং নিচের code দাও:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: codewithmahfuz
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**ধাপ ৩:** Actions tab থেকে workflow manually run করো। একবার run হলে snake দেখা যাবে!
-
-</details>
-
----
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-## 🔭 My Roadmap
-
-```
-✅  Python Fundamentals + OOP + Automation
-✅  Bash Scripting + Linux Administration
-✅  Database Basics (SQL + SQLite)
-🔄  Web Scraping — Advanced Projects
-🔄  Freelancing (Fiverr / Upwork)
-⏳  Data Structures & Algorithms (DSA)
-⏳  Ethical Hacking & Cybersecurity (CEH / OSCP Path)
-⏳  System-Level Programming
-⏳  AI / ML + Security Intersection
-🚀  Build something that matters
-```
+<summary>
 
 ---
 
