@@ -29,9 +29,7 @@ Fun Fact: I automate everything I do more than twice 😄
   
 ### Exploring
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=flat-square&logo=hackthebox&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-6A0DAD?style=flat-square&logo=leetcode&logoColor=white)
 
 </div>
 
