@@ -8,7 +8,7 @@
 </div>
 
 ---
-## About Me
+###  About Me -
 ```
 Name    : Mahfuzur Rahman Chowdhury
 Alias   : CodeWithMahfuz
@@ -23,19 +23,25 @@ Fun Fact: I automate everything I do more than twice 😄
 
 ---
 
-## 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
-  
-## Exploring
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=flat-square&logo=hackthebox&logoColor=white)
-![AI/Machine Learning](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Computer Science](https://img.shields.io/badge/Computer_Science-6A0DAD?style=flat-square&logo=academia&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-00897B?style=flat-square&logo=leetcode&logoColor=white)
 
 </div>
-
 ---
 
-## 💼 Freelancing Services
+### Freelancing Services
 
 | Service | Tools |
 |--------|-------|
@@ -47,7 +53,7 @@ Fun Fact: I automate everything I do more than twice 😄
 
 ---
 
-## 📂 Featured Repositories
+### FEATURED REPOS
 
 <div align="center">
 
@@ -58,7 +64,7 @@ Fun Fact: I automate everything I do more than twice 😄
 
 ---
 
-## 📈 GitHub Stats
+### GITHUB STATS
 
 <div align="center">
 
@@ -74,7 +80,7 @@ Fun Fact: I automate everything I do more than twice 😄
 </div>
 
 
-## 📉 Contribution Graph
+### CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -84,7 +90,7 @@ Fun Fact: I automate everything I do more than twice 😄
 
 ---
 
-## 🐍 Contribution Snake
+### CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -97,7 +103,7 @@ Fun Fact: I automate everything I do more than twice 😄
 
 ---
 
-## 🤝 Connect With Me
+###  CONNECT WITH ME
 
 <div align="center">
 
