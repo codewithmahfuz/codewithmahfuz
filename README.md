@@ -1,38 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:1a1a2e,100:16213e&height=200&section=header&text=Mahfuzur%20Rahman%20Chowdhury&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Self-Taught%20Developer%20%7C%20Automation%20%7C%20Scripting%20%7C%20Security&descAlignY=58&descSize=15&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:1a1a2e,100:16213e&height=220&section=header&text=Mahfuzur%20Rahman%20Chowdhury&fontSize=42&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=&descAlignY=58&descSize=15&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Python+Automation+%26+Web+Scraping;Bash+%2F+Linux+Shell+Scripting;Freelance+Developer+%F0%9F%9A%80;Exploring+Cybersecurity+%2F+Ethical+Hacking;Computer+Science+%26+AI%2FML+Enthusiast)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=58A6FF&center=true&vCenter=true&width=620&lines=Self-Taught+Developer+%7C+Building+Real+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=codewithmahfuz&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
+## About Me
+```
+Name    : Mahfuzur Rahman Chowdhury
+Alias   : CodeWithMahfuz
+Location: Bangladesh 🇧🇩
+Role    : Self-Taught Developer
 
-## 🧠 About Me
-
-```python
-class MahfuzurRahmanChowdhury:
-    def __init__(self):
-        self.name       = "Mahfuzur Rahman Chowdhury"
-        self.alias      = "codewithmahfuz"
-        self.location   = "Bangladesh 🇧🇩"
-        self.role       = "Self-Taught Developer & Freelancer"
-        self.languages  = ["Python", "Bash", "SQL"]
-        self.interests  = [
-            "Automation", "Web Scraping",
-            "Ethical Hacking", "AI/ML",
-            "System-Level Programming", "DSA"
-        ]
-        self.currently  = "Sharpening scripting skills & diving into Ethical Hacking"
-        self.goal       = "Python + Security + AI/ML → Build something impactful"
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something awesome 🚀")
-
-me = MahfuzurRahmanChowdhury()
-me.say_hi()
+Stack    : Python · Bash · SQL · Linux
+Building : Automation · Web Scraping · CLI Tools
+Learning : Ethical Hacking · AI/ML · DSA · System Programming
+Goal     : Code → Security → AI → Impact 
+Fun Fact: I automate everything I do more than twice 😄
 ```
 
 ---
