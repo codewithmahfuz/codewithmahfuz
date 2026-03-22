@@ -15,9 +15,8 @@ Alias   : CodeWithMahfuz
 Location: Bangladesh 🇧🇩
 Role    : Self-Taught Developer
 
-Stack    : Python · Bash · SQL · Linux
 Building : Automation · Web Scraping · CLI Tools
-Learning : Ethical Hacking · AI/ML · DSA · System Programming
+Learning : Ethical Hacking · AI/ML · System Programming
 Goal     : Code → Security → AI → Impact 
 Fun Fact: I automate everything I do more than twice 😄
 ```
