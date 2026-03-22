@@ -27,9 +27,9 @@ Fun Fact: I automate everything I do more than twice 😄
 
 <div align="center">
   
-### Exploring
+## Exploring
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=flat-square&logo=hackthebox&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![AI/Machine Learning](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 </div>
 
