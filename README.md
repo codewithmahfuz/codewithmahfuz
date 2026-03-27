@@ -5,7 +5,6 @@
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=99999&color=8b949e&center=true&vCenter=true&width=800&height=40&lines=Self-Taught+Developer+%7C+Always+Learning%2C+Always+Building"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=80&section=header&reversal=true"/>
 
 
 </div>
