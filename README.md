@@ -41,68 +41,16 @@ Fun Fact: I automate everything I do more than twice 😄
 ![DSA](https://img.shields.io/badge/DSA-00897B?style=flat-square&logo=leetcode&logoColor=white)
 
 </div>
----
 
 ### Freelancing Services
 
 | Service | Tools |
 |--------|-------|
-| 🤖 Python Automation | Selenium, PyAutoGUI, Schedule |
-| 🕷️ Web Scraping | BeautifulSoup, Requests, Scrapy |
+| 🤖 Python Automation | Playwright, PyAutoGUI, Schedule |
+| 🕷️ Web Scraping | BeautifulSoup, Requests|
 | 🐚 Bash Scripting | Shell, Cron, Linux CLI |
 | 🗄️ Database Scripting | SQLite, MySQL, CSV Processing |
 | 📊 Data Processing | Pandas, File Automation |
-
----
-
-### FEATURED REPOS
-
-<div align="center">
-
-[![Complete Python Bootcamp](https://github-readme-stats.vercel.app/api/pin/?username=codewithmahfuz&repo=Complete-Python-Bootcamp&theme=github_dark&border_color=30363d)](https://github.com/codewithmahfuz/Complete-Python-Bootcamp)
-[![MYbash](https://github-readme-stats.vercel.app/api/pin/?username=codewithmahfuz&repo=MYbash&theme=github_dark&border_color=30363d)](https://github.com/codewithmahfuz/MYbash)
-
-</div>
-
----
-
-### GITHUB STATS
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=codewithmahfuz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmahfuz&layout=compact&theme=github_dark&border_color=30363d"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=codewithmahfuz&theme=github-dark-blue&border=30363d)](https://git.io/streak-stats)
-
-</div>
-
-
-### CONTRIBUTION GRAPH
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithmahfuz&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### CONTRIBUTION SNAKE
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/codewithmahfuz/codewithmahfuz/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<details>
-<summary>
-
 ---
 
 ###  CONNECT WITH ME
@@ -113,8 +61,6 @@ Fun Fact: I automate everything I do more than twice 😄
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/codewithmahfuz)
 
 </div>
-
----
 
 <div align="center">
 
