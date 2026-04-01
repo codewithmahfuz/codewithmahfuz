@@ -52,20 +52,3 @@ Fun Fact: I automate everything I do more than twice 😄
 | 🗄️ Database Scripting | SQLite, MySQL, CSV Processing |
 | 📊 Data Processing | Pandas, File Automation |
 ---
-
-###  CONNECT WITH ME
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithmahfuz-staywithme)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/codewithmahfuz)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:141414&height=120&section=footer"/>
-
-*"First, solve the problem. Then, write the code."*
-
-</div>
