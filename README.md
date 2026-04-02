@@ -35,9 +35,9 @@
 
   | Service | Tools |
   |--------|-------|
-  | 🤖 Python Automation | Playwright, PyAutoGUI, Schedule |
-  | 🕷️ Web Scraping | BeautifulSoup, Requests|
-  | 🐚 Bash Scripting | Shell, Cron, Linux CLI |
-  | 🗄️ Database Scripting | SQLite, MySQL, CSV Processing |
-  | 📊 Data Processing | Pandas, File Automation |
+  |  Python Automation | Playwright, PyAutoGUI, Schedule |
+  |  Web Scraping | BeautifulSoup, Requests|
+  |  Bash Scripting | Shell, Cron, Linux CLI |
+  |  Database Scripting | SQLite, MySQL, CSV Processing |
+  |  Data Processing | Pandas, File Automation |
 ---
