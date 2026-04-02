@@ -28,16 +28,7 @@
 | Service | Tools |
 | :--- | :--- |
 | Python Automation | Playwright, PyAutoGUI, Schedule |
-| Web Scraping | BeautifulSoup, Requests |
+| Web Scraping | BeautifulSoup, Requests, Playwright |
 | Bash Scripting | Shell, Cron, Linux CLI |
 | Data Processing | Pandas, CSV Processing |
-### Freelancing Services
-
-  | Service | Tools |
-  |--------|-------|
-  |  Python Automation | Playwright, PyAutoGUI, Schedule |
-  |  Web Scraping | BeautifulSoup, Requests|
-  |  Bash Scripting | Shell, Cron, Linux CLI |
-  |  Database Scripting | SQLite, MySQL, CSV Processing |
-  |  Data Processing | Pandas, File Automation |
 ---
