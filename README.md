@@ -7,9 +7,9 @@
 
 ### About Me
 - **Building:** Web Scraping & Automation Tools
-- **Learning:** Data Science & Ethical Hacking
+- **Learning:** Data Science & Specializing in Automation
 - **Philosophy:** Automate everything done more than twice
-- **Location:** Bangladesh
+- **Location:** Dhaka, Bangladesh
 
 ---
 
